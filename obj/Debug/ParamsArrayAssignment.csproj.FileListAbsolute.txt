@@ -1,0 +1,7 @@
+D:\Assignments\ParamsArrayAssignment\bin\Debug\ParamsArrayAssignment.exe.config
+D:\Assignments\ParamsArrayAssignment\bin\Debug\ParamsArrayAssignment.exe
+D:\Assignments\ParamsArrayAssignment\bin\Debug\ParamsArrayAssignment.pdb
+D:\Assignments\ParamsArrayAssignment\obj\Debug\ParamsArrayAssignment.csproj.AssemblyReference.cache
+D:\Assignments\ParamsArrayAssignment\obj\Debug\ParamsArrayAssignment.csproj.CoreCompileInputs.cache
+D:\Assignments\ParamsArrayAssignment\obj\Debug\ParamsArrayAssignment.exe
+D:\Assignments\ParamsArrayAssignment\obj\Debug\ParamsArrayAssignment.pdb
